@@ -1,4 +1,4 @@
-# team-profile-maker
+# Team-Profile-Generator-Ch-10
 
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
    
