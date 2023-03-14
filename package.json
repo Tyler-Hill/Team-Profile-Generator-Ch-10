@@ -1,0 +1,24 @@
+{
+  "name": "team-profile-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordEvanElias/team-profile-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordEvanElias/team-profile-maker/issues"
+  },
+  "homepage": "https://github.com/LordEvanElias/team-profile-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.3.1"
+  }
+}
