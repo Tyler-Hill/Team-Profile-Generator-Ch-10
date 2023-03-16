@@ -1,10 +1,3 @@
-// Enter the team manager’s name, employee ID, email address, and office number
-// Menu to add engineer/intern/or finish building team
-// Select engineer: I am prompted to enter the engineer’s name, ID, email, and GitHub username,
-// I am taken back to the menu
-// Select intern: enter the intern’s name, ID, email, and school,
-// Select Finish
-// Generate HTML File
 const inquirer = require("inquirer");
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
